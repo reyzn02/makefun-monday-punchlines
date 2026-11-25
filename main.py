@@ -9,8 +9,9 @@ network calls, and always writes the same bytes.
 import os
 
 LINE = (
-    "My alarm clock hates Mondays so much it snoozes itself "
-    "and lets me sleep in out of solidarity."
+    "My Monday alarm doesn't wake me up anymore \u2014 it sighs, "
+    "hits snooze for both of us, and agrees the week can start "
+    "without us."
 )
 
 
